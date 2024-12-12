@@ -1,0 +1,44 @@
+{
+  "allVideos": [
+    {
+      "caption": "Vazha",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjZhZGU3NTgtYzI5Ny00MmIyLWFkYTctMWMzNmUxMDFlNTEyXkEyXkFqcGc@._V1_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "id": 1
+    },
+    {
+      "caption": "Thozha",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZjYM1pggqvN9B9L-ssNGrj-PMvTHdnBang&s",
+      "youtubeUrl": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Album",
+      "allVideos": [
+        {
+          "caption": "Amaran",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Amaran_2024_poster.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/AY3Yea6hBbI",
+          "id": 4
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "caption": "Thozha",
+      "youtubeUrl": "https://www.youtube.com/embed/7x4V-N9JyQg",
+      "formatedDate": "12/4/2024, 3:30:20 PM",
+      "id": 1
+    },
+    {
+      "caption": "Thozha",
+      "youtubeUrl": "https://www.youtube.com/embed/7x4V-N9JyQg",
+      "formatedDate": "12/9/2024, 2:39:41 PM",
+      "id": 2
+    }
+  ]
+}
